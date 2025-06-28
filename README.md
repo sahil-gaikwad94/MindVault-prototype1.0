@@ -51,7 +51,7 @@ iv. Responding:
 🛣️ Roadmap
 | Feature                              | Status     |
 | ------------------------------------ | ---------- |
-| Local LLM integration (GPT4All, etc) | 🔜 Planned |
+| Local LLM integration (OLLaMa, etc)  | 🔜 Planned |
 | PDF & Web-clipping support           | 🔜 Planned |
 | Automated memory workflows           | 🔜 Planned |
 | Desktop & Mobile clients             | 🔜 Planned |
