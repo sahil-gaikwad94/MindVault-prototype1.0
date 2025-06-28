@@ -31,7 +31,9 @@ A local-first, privacy-focused knowledge system using Streamlit. MindVault helps
       streamlit run prototype1.py
 
 
+
 🛠️ How It Works
+
 i. Initialization:
       Creates a local SQLite database (mindvault.db)
       Defines documents & chunks tables
@@ -47,6 +49,7 @@ iii. Searching:
 iv. Responding:
       Aggregates top-3 chunks
       Formats a concise “AI-style” summary
+
 
 🛣️ Roadmap
 | Feature                              | Status     |
